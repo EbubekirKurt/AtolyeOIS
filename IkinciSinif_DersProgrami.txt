@@ -1,0 +1,7 @@
+DERS PROGRAMI
+----------------------
+Pazartesi : 9:00 - 11:00 Programlama Atolyesi | 11:00 - 13:00 Inkilap Tarihi ve Ataturk Ilkeleri | 13:00 - 15:00 Secmeli 2 | 15:00 - 17:00 Elektrik Muh Giris | 
+Sali : 11:00 - 13:00 Diferansiyel Denklemler 2 | 13:00 - 15:00 Ayrik Hesaplama Yapilari | 15:00 - 17:00 Programlama Atolyesi | 
+Carsamba : 9:00 - 11:00 Diferansiyel Denklemler 2 | 11:00 - 13:00 Inkilap Tarihi ve Ataturk Ilkeleri | 13:00 - 15:00 Programlama Atolyesi | 
+Persembe : 9:00 - 11:00 Inkilap Tarihi ve Ataturk Ilkeleri | 11:00 - 13:00 Elektrik Muh Giris | 13:00 - 15:00 Cebir | 15:00 - 17:00 Ayrik Hesaplama Yapilari | 
+Cuma : 9:00 - 11:00 Elektrik Muh Giris | 11:00 - 13:00 Diferansiyel Denklemler 2 | 13:00 - 15:00 Ayrik Hesaplama Yapilari | 15:00 - 17:00 Elektrik Labaratuvari | 

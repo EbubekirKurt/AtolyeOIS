@@ -1,0 +1,14 @@
+1 | Ebubekir Kurt | Esma Kurt | Alaaddin Kurt | Sivas | xyz123 | ebubekirkurt@beykoz.edu.tr | Diferansiyel | Ayrik
+2 | Ayse Demir | Fatma Demir | Hasan Demir | Ankara | XyZ@345 | aysedemir@beykoz.edu.tr | Diferansiyel | Secmeli 4
+3 | Mehmet Aksoy | Emine Aksoy | Ali Aksoy | Izmir | PQ&rsT6 | mehmetaksoy@beykoz.edu.tr | Programlama | Algoritma Analizi
+4 | Elif Kaya | Aysel Kaya | Mustafa Kaya | Bursa | LmNoP#7 | elifkaya@beykoz.edu.tr | Fizik Lab | Bilgi Iletisim 
+5 | Hasan Kilic | Sevim Kilic | Osman Kilic | Adana | WxYz1@2 | hasankilic@beykoz.edu.tr | Fizik | Ekonomi
+6 | Zehra Yildiz | Nuran Yildiz | Ismail Yildiz | Antalya | FgH&I34 | zehrayildiz@beykoz.edu.tr | Ingilizce | Sistem Programlama
+8 | Aylin Dogan | Leyla Dogan | Ali Dogan | Konya | Jkl#mn1 | aylindogan@beykoz.edu.tr | Cebir | Secmeli 4
+9 | Emir Aydin | Pinar Aydin | Serdar Aydin | Trabzon | RsTuV@2 | emiraydin@beykoz.edu.tr | Elektrik Muh Giris | Elektrik Labaratuvari
+10 | Hulya Tekin | Necla Tekin | Ismet Tekin | Samsun | O3pQRtU | hulyatekin@beykoz.edu.tr | Elektrik Labaratuvari | Bitirme Projesi
+11 | Burak Sonmez | Nihal Sonmez | Selim Sonmez | Eskisehir | LmNo4#5 | buraksonmez@beykoz.edu.tr | Inkilap Tarihi ve Ataturk Ilkeleri | Yapay Zeka
+13 | Onur Ucar | Pinar Ucar | Sahin Ucar | Mersin | T9U@vWx | onurucar@beykoz.edu.tr | Diferansiyel Denklemler 2 | Secmeli 3
+14 | Sevgi Karahan | Ayse Karahan | Hasan Karahan | Diyarbakir | 1XyZ#2A | sevgikarahan@beykoz.edu.tr | Sayisal Sistemler | Yapay Zeka
+15 | Mehmet Yildirim | Fadime Yildirim | Ali Yildirim | Van | D34EfGh | mehmetyildirim@beykoz.edu.tr | Sayisal Sistemler Lab | Secmeli Ders 1
+16 | Gulsen Can | Ayten Can | Mehmet Can | Trabzon | I23jKl# | gulsencan@beykoz.edu.tr | Ekonomi | Bilgisayar Aglari

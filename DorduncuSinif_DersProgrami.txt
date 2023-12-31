@@ -1,0 +1,7 @@
+DERS PROGRAMI
+----------------------
+Pazartesi : 9:00 - 11:00 Secmeli 4 | 11:00 - 13:00 Bilgisayar Aglari | 15:00 - 17:00 Bitirme Projesi | 
+Sali : 11:00 - 13:00 Yazilim Muh Surecleri | 13:00 - 15:00 Algoritma Analizi | 15:00 - 17:00 Secmeli 4 | 
+Carsamba : 9:00 - 11:00 Yazilim Muh Surecleri | 11:00 - 13:00 Bilgisayar Aglari | 13:00 - 15:00 Secmeli 4 | 
+Persembe : 9:00 - 11:00 Bilgisayar Aglari | 11:00 - 13:00 Bitirme Projesi | 13:00 - 15:00 Sosyal Sorumluluk | 15:00 - 17:00 Algoritma Analizi | 
+Cuma : 9:00 - 11:00 Bitirme Projesi | 11:00 - 13:00 Yazilim Muh Surecleri | 13:00 - 15:00 Algoritma Analizi | 15:00 - 17:00 Ekoloji | 

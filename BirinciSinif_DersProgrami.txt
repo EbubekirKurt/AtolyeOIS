@@ -1,0 +1,7 @@
+DERS PROGRAMI
+----------------------
+Pazartesi : 9:00 - 11:00 Fizik Lab | 11:00 - 13:00 Bilgi Iletisim | 15:00 - 17:00 Fizik | 
+Sali : 11:00 - 13:00 Programlama | 13:00 - 15:00 Diferansiyel | 15:00 - 17:00 Fizik Lab | 
+Carsamba : 9:00 - 11:00 Programlama | 11:00 - 13:00 Bilgi Iletisim | 13:00 - 15:00 Fizik Lab | 
+Persembe : 9:00 - 11:00 Bilgi Iletisim | 11:00 - 13:00 Fizik | 13:00 - 15:00 Secmeli Ders 1 | 15:00 - 17:00 Diferansiyel | 
+Cuma : 9:00 - 11:00 Fizik | 11:00 - 13:00 Programlama | 13:00 - 15:00 Diferansiyel | 15:00 - 17:00 Ingilizce | 

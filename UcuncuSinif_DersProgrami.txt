@@ -1,0 +1,7 @@
+DERS PROGRAMI
+----------------------
+Pazartesi : 9:00 - 11:00 Ekonomi | 11:00 - 13:00 Veri Yapilari ve Algoritma | 13:00 - 15:00 Secmeli 3 | 15:00 - 17:00 Veritabani Sistemleri | 
+Sali : 11:00 - 13:00 Sayisal Sistemler Lab | 13:00 - 15:00 Sayisal Sistemler | 15:00 - 17:00 Ekonomi | 
+Carsamba : 9:00 - 11:00 Sayisal Sistemler Lab | 11:00 - 13:00 Veri Yapilari ve Algoritma | 13:00 - 15:00 Ekonomi | 
+Persembe : 9:00 - 11:00 Veri Yapilari ve Algoritma | 11:00 - 13:00 Veritabani Sistemleri | 13:00 - 15:00 Yapay Zeka | 15:00 - 17:00 Sayisal Sistemler | 
+Cuma : 9:00 - 11:00 Veritabani Sistemleri | 11:00 - 13:00 Sayisal Sistemler Lab | 13:00 - 15:00 Sayisal Sistemler | 15:00 - 17:00 Sistem Programlama | 
